@@ -2,7 +2,7 @@
 
 Este é um sistema simples de gerenciamento de biblioteca, desenvolvido para facilitar o controle de empréstimos e cadastro de clientes e livros. O sistema permite gerenciar os livros disponíveis, registrar clientes, acompanhar os empréstimos e muito mais.
 
-# :hamer: Funcionalidades
+# :hammer: Funcionalidades
 - `Listar todos os livros disponíveis`: Exibe uma lista de todos os livros que estão disponíveis para empréstimo.
 - `Cadastrar cliente`: Permite o registro de novos clientes no sistema.
 - `Listar todos os clientes`: Exibe uma lista de todos os clientes cadastrados na biblioteca.
@@ -15,7 +15,7 @@ Este é um sistema simples de gerenciamento de biblioteca, desenvolvido para fac
 # Como Usar
 1. Clone o repositório
 2. Execute o sistema na sua IDE
-divirta-se
+3. Divirta-se
 
 # Tecnologias Utilizadas
 * `Java`
